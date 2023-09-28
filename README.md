@@ -21,4 +21,20 @@
 - address B sends 50,000 to address C, which gets the 50,000 tokens, but address B gets deducted their whole 500,000 balance.
 - This makes it so non-owners (every address that did not deploy the original contract) hold 10x less than they think they do, since they can only ever transfer out 10% at most.
 
+
 ![success and failure tx amounts](pictures/pic3.png)
+
+
+## Notes
+- This opened my mind regarding the span of attack vectors within smart contracts.
+- People who make honeypots/traps to steal and scam from innocent people in web3 are the scum of the earth.
+- Take this as an example of how dangerous crypto can be.
+    - Use a hard wallet with metamask
+    - Never store seed words on any device that has ever touched the internet
+    - Do not interact with any foreign coin sent to your address
+    - Triple check websites for phising links
+    - Smart contracts have endless possibilities and clever tricks to take your money, far more clever and intricate than this
+    - Don't trust anyone
+- Be a white hat, not a black hat
+
+![happy pepe](pictures/pic4.png)
